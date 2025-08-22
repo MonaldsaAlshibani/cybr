@@ -1,0 +1,9 @@
+Aug 20 10:02:11 web01 sshd[1234]: Failed password for root from 203.0.113.45 port 22 ssh2
+Aug 20 10:02:19 web01 sshd[1234]: Failed password for root from 203.0.113.45 port 22 ssh2
+Aug 20 10:02:26 web01 sshd[1234]: Failed password for root from 203.0.113.45 port 22 ssh2
+Aug 20 10:02:33 web01 sshd[1234]: Failed password for root from 203.0.113.45 port 22 ssh2
+Aug 20 10:02:41 web01 sshd[1234]: Failed password for root from 203.0.113.45 port 22 ssh2
+Aug 20 10:03:05 web01 sshd[1234]: Accepted password for ubuntu from 198.51.100.10 port 56632 ssh2
+Aug 20 10:15:55 web01 sshd[2234]: Failed password for invalid user admin from 192.0.2.1 port 22 ssh2
+Aug 20 10:16:03 web01 sshd[2234]: Failed password for invalid user admin from 192.0.2.1 port 22 ssh2
+Aug 20 10:16:10 web01 sshd[2234]: Failed password for invalid user admin from 192.0.2.1 port 22 ssh2
