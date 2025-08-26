@@ -1,0 +1,2 @@
+[2025-08-26 10:05:38.266569] NORMAL traffic from ('127.0.0.1', 45866) | Message: Hello putana
+[2025-08-26 10:06:05.116278] SUSPICIOUS traffic from ('127.0.0.1', 35918) | Message: hack
